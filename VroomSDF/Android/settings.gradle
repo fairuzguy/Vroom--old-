@@ -1,0 +1,3 @@
+rootProject.name = "Triangle"
+include ':app'
+include ':sdl'
